@@ -1,5 +1,7 @@
 <?php
 // Script para apresentação da funcionalidade do github aula 001
 
-echo "Olá mundo";
+echo "Olá mundo 123";
+
+echo "Salve, programador!";
 ?>
